@@ -1,7 +1,7 @@
 {
   "name": "Blue Void v3",
   "description": "A complete dark blue void experience. Black space, electric blue glow, and clean Discord styling.",
-  "version": "3.0",
+  "version": "3.1",
   "authors": [
     {
       "name": "rik.msi",
@@ -209,8 +209,8 @@
     ],
 
     "TEXT_NORMAL": [
-      "#ffffff",
-      "#111111"
+      "#b9ddff",
+      "#111211"
     ],
 
     "TEXT_MUTED": [
@@ -219,7 +219,7 @@
     ],
 
     "TEXT_PRIMARY": [
-      "#ffffff",
+      "#d6ebff",
       "#111111"
     ],
 
